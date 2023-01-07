@@ -9,7 +9,7 @@ local Window = OrionLib:MakeWindow({Name = "[No Safety] !!FUCKER!! (Key System)"
         Time = 5
     })
 
-_G.Key = "83H19Y49D1"
+_G.Key = "Update2.0"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
